@@ -278,7 +278,7 @@ body{
     align-items: center;
     padding-left: 34px;
     margin-right: 78px;
-    background-image: url('../img/time.png');
+    background-image: url('../img/Vector (4).svg');
     background-position: left;
     background-repeat: no-repeat;
     font-weight: 400;
@@ -293,7 +293,7 @@ body{
     flex-direction: row;
     align-items: center;
     padding-left: 33px;
-    background-image: url('../img/map.png');
+    background-image: url('../img/image 32 (Traced).svg');
     background-position: left;
     background-repeat: no-repeat;
     width: 169px;
@@ -429,7 +429,7 @@ body{
     right: 0;
     background: #21D091;
     top: -130px;
-    background-image: url('../img/Subtract.png');
+    background-image: url('../img/Subtract.svg');
     background-repeat: no-repeat;
     background-position: 14px center;
     cursor: pointer;
@@ -518,7 +518,7 @@ body{
   .open-filters{
     display: none;
     padding: 13px 59px 13px 95px;
-    background-image: url('../img/filter.png');
+    background-image: url('../img/image 363 (Traced).svg');
     background-position: 63px center;
     background-size: 19px;
     background-repeat: no-repeat;
@@ -1097,7 +1097,7 @@ body{
     right: 0;
     background: #21D091;
     top: 0px;
-    background-image: url('../img/Subtract.png');
+    background-image: url('../img/Subtract.svg');
     background-repeat: no-repeat;
     background-position: 39px center;
     cursor: pointer;
