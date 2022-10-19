@@ -541,6 +541,10 @@ body{
     width: 100%;
   }
 
+  .cp{
+    cursor: pointer;
+  }
+
   .catalog-list__item {
     max-width: 328px;
     padding-bottom: 24px;
