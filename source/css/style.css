@@ -455,7 +455,7 @@ body{
     line-height: 140%;
     color: #000000;
     margin-bottom: 60px;
-    width: 57%;
+    width: 100%;
 }
 
 .install-text{
@@ -1640,7 +1640,6 @@ body{
 
     .install-head {
         font-size: 50px;
-        width: 86%;
     }
 
     .feedback-right {
@@ -2699,6 +2698,11 @@ body{
         width: 30%;
     }
 
+
+    .install-head {
+        font-size: 24px;
+    }
+
     .footer-center__left-part {
         flex-direction: column;
         
@@ -2975,6 +2979,7 @@ body{
         width: 100%;
         margin-bottom: 16px;
         font-weight: 500;
+        font-size: 18px;
     }
 
 
